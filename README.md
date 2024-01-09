@@ -5,6 +5,7 @@
 | _NIM_ | 312310461 |
 | _Kelas_ | TI.23.A5 |
 | _Mata Kuliah_ | Bahasa Pemrograman |
+| _Link Youtube_ | https://youtu.be/6ozA46xtM48?si=CAF5yxVvzsyYkOoT  |
 ### Buatlah program kasir di sebuah kantin, dengan kondisi berikut:
 * List opsi pilihan makanan/minuman dan aksi, bisa menggunakan format dictionary
 * Program harus meminta input pilihan makanan dari pengguna.
